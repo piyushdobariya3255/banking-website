@@ -1,0 +1,159 @@
+.Home .title-section{
+    color:#4895ef;
+}
+
+.Home .auto-type-setting{
+    color: #4895ef;
+    font-size: 40px;
+}
+
+.Home .content-image-section img{
+    height: 350px;
+    width: 480px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Home .content-box-1{
+    margin-left: 30px;
+}
+.Home .container-fluid .row{
+    justify-content: space-between;
+}
+/* ===================*/
+
+
+
+.Home .service-card-group {
+    display: flex;
+    justify-content: center;
+  }
+  
+.Home .service-card {
+    margin: 20px 20px 0 20px;
+    max-width: 250px;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 4px rgb(195, 185, 185, 0.5);
+  }
+
+  
+.Home .container-spec {
+    min-width: 700px;
+    margin-inline: auto;
+    position: relative;
+    margin-bottom: 10px;
+    margin: 50px 10px 10px 10px;
+  }
+  
+  .Home .choose-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0 0 0;
+  }
+
+  
+.Home .service-card-group {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .Home .text-display {
+    display: flex;
+    justify-content: center;
+  }
+  .Home .card-title{
+    margin-top: 20px;
+  }
+.Home .text-display-title {
+    margin: 10px 10px 0 10px;
+    max-width: 500px;
+    text-align: center;
+    margin: 10px 0 10px 0;
+    font-weight: bold;
+    opacity: 0.4;
+    font-size: 1.1rem;
+  }
+
+  .Home .service-card {
+    margin: 20px 20px 0 20px;
+    max-width: 250px;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 4px rgb(195, 185, 185, 0.5);
+  }
+
+  .Home .card-icon {
+    width: 100px;
+  }
+  
+  .Home .card-text {
+    font-size: 0.9rem;
+    margin: 20px 0 20px 0;
+    opacity: 0.5;
+  }
+
+  /* ================== */
+
+
+  .Home .blog-section-text {
+    font-size: 2.5rem;
+    opacity: 0.5;
+    margin: 50px 0px 0px 25px;
+  }
+
+  .Home .article-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+
+  .Home .content>h3 {
+    margin-block: 10px;
+  }
+  
+  .Home .content>p {
+    margin-block: 10px;
+  }
+  
+  .Home .blog-images {
+    min-height: 200px;
+    border-radius: 5px;
+
+  }
+  
+.Home .blog-section-content-text {
+    opacity: 0.5;
+  }
+
+  .Home .blog-images {
+    min-height: 200px;
+    border-radius: 5px;
+  
+  }
+  .Home .article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px 10px 20px 10px;
+  }
+  .Home .lern{
+    width: 320px;
+}
+  .Home .hbox{
+    background-color: rgb(241, 241, 241);
+    padding: 30px;
+    margin: 0px 0px;
+}
