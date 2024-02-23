@@ -62,11 +62,11 @@ function Contect() {
                                     <div className="input-area h-80">
                                         <textarea placeholder="Your message"></textarea>
                                     </div>
-                                    <button className="sendbtn">Send</button>
+                                    <button className="sendbtn mb-2">Send</button>
                                 </form>
                             </div>
                         </div>
-
+                        
                     </div>
                 </div>
 

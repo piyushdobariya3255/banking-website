@@ -174,7 +174,7 @@ function Home() {
 
                     <div class="row">
                         <div class="col-sm-4">
-                            <div class="card" style={{textAlign:"center"}}>
+                            <div class="card" data-aos="zoom-in" style={{textAlign:"center"}}>
                                 <div class="card-body">
                                 <LockOutlinedIcon color="primary" style={{fontSize:'60px',margin:"0px 0px"}}></LockOutlinedIcon>
                                     <h5 class="card-title">Manage your Pin</h5>
@@ -184,7 +184,7 @@ function Home() {
                             </div>
                         </div>
                         <div class="col-sm-4">
-                            <div class="card" style={{textAlign:"center"}}>
+                            <div class="card" data-aos="zoom-in" style={{textAlign:"center"}}>
                                 <div class="card-body">
                                 <PaymentOutlinedIcon color="primary" style={{fontSize:'60px',margin:"0px 0px"}}></PaymentOutlinedIcon>
                                     <h5 class="card-title">Replace your Card</h5>
@@ -194,7 +194,7 @@ function Home() {
                             </div>
                         </div>
                         <div class="col-sm-4">
-                            <div class="card" style={{textAlign:"center"}}>
+                            <div class="card" data-aos="zoom-in" style={{textAlign:"center"}}>
                                 <div class="card-body">
                                     <SecurityOutlinedIcon color="primary" style={{fontSize:'60px',margin:"0px 0px"}}></SecurityOutlinedIcon>
                                     <h5 class="card-title">Learn about Card Security</h5>

@@ -20,28 +20,28 @@ function Navbar() {
                 <NavLink className="nav-link active" aria-current="page" to="/About_us">About</NavLink>
               </li>
               <li className="nav-item">
-              <NavLink className="nav-link active" aria-current="page" to="/Contect">Contect</NavLink>
+                <NavLink className="nav-link active" aria-current="page" to="/Contect">Contect</NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link active" aria-current="page" href="#">Insurance</NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link active" aria-current="page" href="#">Help</NavLink>
+                <NavLink className="nav-link active" aria-current="page" to="/Help">Help</NavLink>
               </li>
             </ul>
 
             <div className="button">
-            <input type="button" value="My Account" name="account" className="btn btn-primary m-2" />
-            <button type="button" className="btn btn-outline-primary m-2">Explore</button>
+              <input type="button" value="My Account" name="account" className="btn btn-primary m-2" />
+              <button type="button" className="btn btn-outline-primary m-2">Explore</button>
             </div>
 
             <form className="d-flex">
-              <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-                <button className="btn btn-outline-success" type="submit">Search</button>
+              <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+              <button className="btn btn-outline-success" type="submit">Search</button>
             </form>
 
-<NavLink to="/Signup_Signin"><input type="button" value="Login" name="account" className="btn btn-primary m-2"/>
-</NavLink>
+            <NavLink to="/Signup_Signin"><input type="button" value="Login" name="account" className="btn btn-primary m-2" />
+            </NavLink>
 
           </div>
         </div>

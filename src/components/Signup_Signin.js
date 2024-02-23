@@ -53,7 +53,7 @@ function Signup_Signin() {
 
                             <p className="account-text">Don't have an account? <a href="/" id="sign-up-btn2">Sign up</a></p>
                         </form>
-                        <form action="" className="sign-up-form">
+                        <form  action="" className="sign-up-form">
                             <h2 className="title">Sign up</h2>
                             <div className="input-field">
                                 <i className="fas fa-user"></i>
